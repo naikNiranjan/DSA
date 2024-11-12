@@ -29,6 +29,8 @@ Print the result ,Call the setminimum and setmaxi functions to find the minimum 
 
  - code
  ______
+
+``` 
  int setmini(int A[], int N)
 {
     int mini = INT_MAX;
@@ -50,4 +52,6 @@ int setmaxi(int A[], int N)
     }
     return maxi;
 }
+
+```
 

@@ -4,7 +4,4 @@
 
 ### Problems on arrays :
 ______________________
-
-- Names
- - niranjan
-   - Nithin
+[Link to problems](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)

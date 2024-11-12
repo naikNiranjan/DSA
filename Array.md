@@ -1,6 +1,6 @@
 # DSA
 
-##Array
+## Array
 
-###Problems on arrays :
+### Problems on arrays :
 ______________________
